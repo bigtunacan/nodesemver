@@ -1,0 +1,14 @@
+{
+  "name": "nodesemver",
+  "version": "1.0.0",
+  "description": "Test Project to demonstrate npm handling of semver of github repos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joiey Seeley",
+  "license": "MIT",
+  "dependencies": {
+    "forever": "https://github.com/foreverjs/forever#semver:0.14.0"
+  }
+}
