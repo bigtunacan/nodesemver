@@ -9,6 +9,6 @@
   "author": "Joiey Seeley",
   "license": "MIT",
   "dependencies": {
-    "forever": "git+https://github.com/foreverjs/forever.git#semver:^0.14.0"
+    "forever": "git+https://github.com/foreverjs/forever.git"
   }
 }
